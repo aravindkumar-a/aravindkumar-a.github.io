@@ -1,6 +1,6 @@
 Thanks for downloading this theme!
 
-Theme Name: DevFolio
-Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Theme Name: Aravindkumar A
+Theme URL: https://aravindkumar.com/aravindkumar-bootstrap-portfolio-html-template/
+Author: aravindkumar.com
+Author URL: https://aravindkumar.com
